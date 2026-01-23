@@ -1,0 +1,9 @@
+[[:space:]]SpinningCar/Library/PackageCache/com.unity.burst@1df634d836b8/.Runtime/hostmac/dsymutil filter=lfs diff=lfs merge=lfs -text
+SpinningCar/Library/PackageCache/com.unity.burst@1df634d836b8/.Runtime/libburst-llvm-10.dylib filter=lfs diff=lfs merge=lfs -text
+[[:space:]]SpinningCar/Library/PackageCache/com.unity.burst@1df634d836b8/.Runtime/libburst-llvm-19. filter=lfs diff=lfs merge=lfs -text
+SpinningCar/Library/PackageCache/com.unity.burst@1df634d836b8/.Runtime/libburst-llvm-19.so filter=lfs diff=lfs merge=lfs -text
+[[:space:]]File[[:space:]]SpinningCar/Library/PackageCache/com.unity.burst@1df634d836b8/.Runtime/burst-llvm-19-arm64.dll filter=lfs diff=lfs merge=lfs -text
+SpinningCar/Library/PackageCache/com.unity.burst@1df634d836b8/.Runtime/burst-llvm-19-arm64.dll filter=lfs diff=lfs merge=lfs -text
+[[:space:]]SpinningCar/Library/PackageCache/com.unity.burst@1df634d836b8/.Runtime/burst-llvm-19.dll filter=lfs diff=lfs merge=lfs -text
+[[:space:]]SpinningCar/Library/PackageCache/com.unity.burst@1df634d836b8/.Runtime/libburst-llvm-19.dylib filter=lfs diff=lfs merge=lfs -text
+SpinningCar/Library/PackageCache/com.unity.burst@1df634d836b8/.Runtime/libburst-llvm-19.dylib filter=lfs diff=lfs merge=lfs -text
