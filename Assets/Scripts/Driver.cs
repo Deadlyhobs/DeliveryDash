@@ -10,6 +10,10 @@ public class Driver : MonoBehaviour
     [SerializeField] float regularSpeed = 8f;
 
     [SerializeField] TMP_Text boosttext;
+    
+
+    [SerializeField] AudioSource wallHit;
+    [SerializeField] AudioSource boostUp;
 
     void Start()
     {
@@ -60,6 +64,7 @@ public class Driver : MonoBehaviour
           currentSpeed = boostSpeed; 
           boosttext.gameObject.SetActive(true); 
           Destroy(collision.gameObject);
+          boostUp.Play();
         }
    
        }
@@ -70,6 +75,8 @@ public class Driver : MonoBehaviour
         {
             currentSpeed = regularSpeed;
             boosttext.gameObject.SetActive(false);
+            wallHit.Play();
+
         } 
     }
 

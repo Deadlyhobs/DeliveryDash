@@ -166,6 +166,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &675175
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -354,6 +357,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &976135
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -459,6 +465,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &2395291
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -601,6 +610,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &2709400
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -742,6 +754,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &6209533
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -974,6 +989,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &8142824
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -1162,6 +1180,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &9127858
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1313,6 +1334,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &10474067
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1418,6 +1442,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &24996046
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -1650,6 +1677,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &28886149
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -1886,6 +1916,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!1 &30667136
 GameObject:
   m_ObjectHideFlags: 0
@@ -1933,6 +1966,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &30667139
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -2079,6 +2115,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &35149428
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -2356,6 +2395,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &41886388
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2461,6 +2503,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &42974247
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2658,6 +2703,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &44117083
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2763,6 +2811,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &55987848
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -2905,6 +2956,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &59034539
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -3047,6 +3101,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &63958171
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -3188,6 +3245,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &64526332
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -3330,6 +3390,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &64967202
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -3472,6 +3535,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &70217113
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -3614,6 +3680,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &70396885
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -3765,6 +3834,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &70538635
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -3953,6 +4025,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &74223602
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4058,6 +4133,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &77978164
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -4246,6 +4324,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &80712630
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4351,6 +4432,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &81335403
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -4583,6 +4667,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &84243596
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -4771,6 +4858,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &93797983
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -4876,6 +4966,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &99373140
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5073,6 +5166,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &100090663
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -5178,6 +5274,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &102714925
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -5320,6 +5419,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &102946305
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -5517,6 +5619,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &104463887
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -5712,6 +5817,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &112902457
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -5853,6 +5961,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &115392619
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -5996,6 +6107,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!114 &124030882
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6009,6 +6123,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &124030883
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -6104,6 +6221,135 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &124953786
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 124953788}
+  - component: {fileID: 124953787}
+  m_Layer: 0
+  m_Name: PackageTurnIn
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!82 &124953787
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 124953786}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 8300000, guid: 48fb69e7e057d3c449d37df4e478df74, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 0.75
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!4 &124953788
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 124953786}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 6.81257, y: 4.09011, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &127137986
 GameObject:
   m_ObjectHideFlags: 0
@@ -6151,6 +6397,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &127137989
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -6338,6 +6587,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &130453064
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -6759,6 +7011,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &136499659
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -6910,6 +7165,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &137399016
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -7015,6 +7273,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &138497998
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -7203,6 +7464,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &139882711
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -7308,6 +7572,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Delivery
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &142413809
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -7497,6 +7764,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &142854203
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -7639,6 +7909,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &145991027
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -7781,6 +8054,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &152881914
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -8064,6 +8340,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &155850513
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -8215,6 +8494,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &164487588
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -8366,6 +8648,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &169784505
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -8471,6 +8756,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &175980630
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -8613,6 +8901,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &176676065
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -8934,6 +9225,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &197632708
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -9122,6 +9416,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &199731708
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -9227,6 +9524,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &201288932
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -9415,6 +9715,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &202235482
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -9673,6 +9976,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &206759576
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -9868,6 +10174,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &224920509
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -10010,6 +10319,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &226273623
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -10207,6 +10519,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &226549368
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -10358,6 +10673,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &228536614
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -10463,6 +10781,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &233473639
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -10650,6 +10971,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &235562610
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -10891,6 +11215,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &235800685
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -10996,6 +11323,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &237954969
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -11241,6 +11571,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!1 &246881074
 GameObject:
   m_ObjectHideFlags: 0
@@ -11288,6 +11621,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &246881077
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -11575,6 +11911,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &255619529
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -11726,6 +12065,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &256563910
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -11831,6 +12173,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &258595777
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -12199,6 +12544,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &267497919
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -12304,6 +12652,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &269144184
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -12460,6 +12811,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &273120843
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -12692,6 +13046,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &275574177
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -12834,6 +13191,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &276587791
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -12928,6 +13288,143 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &277877657
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 277877658}
+  - component: {fileID: 277877660}
+  - component: {fileID: 277877659}
+  m_Layer: 5
+  m_Name: Package Text
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &277877658
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 277877657}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1192209706}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 449, y: 213}
+  m_SizeDelta: {x: 200, y: 50}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &277877659
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 277877657}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.TextMeshPro::TMPro.TextMeshProUGUI
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: Package
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: 125cb55b44b24c4393181402bc6200e6, type: 2}
+  m_sharedMaterial: {fileID: 2100000, guid: 125cb55b44b24c4393181402bc6200e6, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 36
+  m_fontSizeBase: 36
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 0
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 256
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_characterHorizontalScale: 1
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_TextWrappingMode: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 0
+  m_ActiveFontFeatures: 6e72656b
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_EmojiFallbackSupport: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &277877660
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 277877657}
+  m_CullTransparentMesh: 1
 --- !u!1 &279474007
 GameObject:
   m_ObjectHideFlags: 0
@@ -13021,6 +13518,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &279474011
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -13216,6 +13716,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &284714659
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -13357,6 +13860,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &285716470
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -13598,6 +14104,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &309851007
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -13786,6 +14295,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &311640968
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -13937,6 +14449,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &312472246
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -14225,6 +14740,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &336911441
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -14556,6 +15074,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &346722298
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -14661,6 +15182,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &346762070
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -14849,6 +15373,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &347215381
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -15044,6 +15571,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &351175414
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -15186,6 +15716,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &351453708
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -15328,6 +15861,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &352435849
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -15479,6 +16015,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &352644854
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -15630,6 +16169,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &354410741
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -15772,6 +16314,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &361865520
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -15914,6 +16459,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &363634180
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -16056,6 +16604,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &366465454
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -16244,6 +16795,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &372281424
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -16349,6 +16903,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &373355549
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -16490,6 +17047,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &373630222
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -16631,6 +17191,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &373931147
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -16819,6 +17382,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &384444439
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -16970,6 +17536,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &387541429
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -17075,6 +17644,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &401573109
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -17263,6 +17835,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &402105574
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -17458,6 +18033,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &403466210
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -17609,6 +18187,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &407232640
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -17751,6 +18332,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &413036549
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -17960,6 +18544,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &414230544
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -18053,6 +18640,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &417467193
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -18331,6 +18921,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &418682909
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -18482,6 +19075,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &421383803
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -18587,6 +19183,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &429021642
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -18738,6 +19337,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &430659061
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -18889,6 +19491,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &433263715
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -19076,6 +19681,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &436831737
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -19271,6 +19879,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &441838363
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -19412,6 +20023,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &449845566
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -19609,6 +20223,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &450294945
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -19714,6 +20331,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &455767006
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -19856,6 +20476,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &456202420
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -20053,6 +20676,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &456951927
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -20143,9 +20769,9 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 1192209706}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 99.5, y: -25.5}
+  m_AnchorMin: {x: 1, y: 1}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -1001.5, y: -25.5}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &458942794
@@ -20295,6 +20921,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &467083581
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -20446,6 +21075,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &471402717
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -20643,6 +21275,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &472032347
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -20709,6 +21344,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1472503665}
     m_Modifications:
+    - target: {fileID: 202129946241722030, guid: de61ce206cb62194b9d577a55f4eda79, type: 3}
+      propertyPath: pickUp
+      value: 
+      objectReference: {fileID: 1289750081}
+    - target: {fileID: 202129946241722030, guid: de61ce206cb62194b9d577a55f4eda79, type: 3}
+      propertyPath: turnIn
+      value: 
+      objectReference: {fileID: 124953787}
     - target: {fileID: 4019481493763009187, guid: de61ce206cb62194b9d577a55f4eda79, type: 3}
       propertyPath: m_Name
       value: Package (1)
@@ -20805,6 +21448,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &475091160
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -20993,6 +21639,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &476758227
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -21234,6 +21883,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &492392013
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -21475,6 +22127,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &504391453
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -21580,6 +22235,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &509641283
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -21722,6 +22380,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &513490661
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -22124,6 +22785,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &520657063
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -22266,6 +22930,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &524661516
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -22507,6 +23174,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &531209410
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -22695,6 +23365,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &536452323
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -22800,6 +23473,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &540731200
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -22951,6 +23627,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &541713494
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -23192,6 +23871,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &552359948
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -23433,6 +24115,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &555566289
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -23621,6 +24306,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &557109447
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -23726,6 +24414,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &559811730
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -23867,6 +24558,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &560463823
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -24055,6 +24749,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &561449350
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -24160,6 +24857,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &564261919
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -24302,6 +25002,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &566002990
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -24444,6 +25147,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &569767460
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -24731,6 +25437,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &572918310
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -24926,6 +25635,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &581131818
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -25157,6 +25869,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &592592394
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -25298,6 +26013,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &595075988
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -25440,6 +26158,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &597719092
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -25628,6 +26349,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &599675084
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -25733,6 +26457,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &602896672
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -25874,6 +26601,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &604840583
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -26016,6 +26746,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &605677945
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -26158,6 +26891,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &607389851
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -26399,6 +27135,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &616407663
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -26541,6 +27280,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &616868573
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -26683,6 +27425,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &619091012
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -27039,6 +27784,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &626761341
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -27144,6 +27892,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &632628342
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -27465,6 +28216,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &642852006
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -27607,6 +28361,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &650888669
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -27794,6 +28551,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &651806284
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -27945,6 +28705,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &661396460
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -28050,6 +28813,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &663680335
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -28192,6 +28958,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &671356970
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -28424,6 +29193,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &677041271
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -28702,6 +29474,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &680930108
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -28807,6 +29582,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &685131923
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -28949,6 +29727,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &688881802
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -29091,6 +29872,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &689659601
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -29279,6 +30063,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &695097452
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -29430,6 +30217,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &702310174
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -29625,6 +30415,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &703905227
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -29776,6 +30569,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &714293649
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -29918,6 +30714,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &717350974
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -30069,6 +30868,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &722439728
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -30300,6 +31102,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &727664628
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -30442,6 +31247,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &730410062
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -30593,6 +31401,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &732196347
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -30790,6 +31601,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &735182828
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -31031,6 +31845,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &743410302
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -31226,6 +32043,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &743896568
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -31504,6 +32324,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &764611394
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -31879,6 +32702,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &775476412
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -32021,6 +32847,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &775992064
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -32163,6 +32992,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &777510474
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -32350,6 +33182,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &778495278
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -32501,6 +33336,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &780030519
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -32652,6 +33490,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &783922738
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -32757,6 +33598,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &786767665
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -32899,6 +33743,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &787590959
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -33041,6 +33888,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &787981512
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -33192,6 +34042,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &788663364
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -33343,6 +34196,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &799354298
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -33540,6 +34396,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &801785258
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -33645,6 +34504,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &805763468
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -33923,6 +34785,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &824617160
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -34074,6 +34939,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &827918060
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -34269,6 +35137,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &834122331
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -34411,6 +35282,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &835492217
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -34552,6 +35426,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &836028297
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -34784,6 +35661,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &836616170
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -34926,6 +35806,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &837496778
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -35123,6 +36006,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &842058081
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -35228,6 +36114,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &842952603
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -35370,6 +36259,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &843019729
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -35558,6 +36450,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &847110910
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -35663,6 +36558,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &847987778
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -35805,6 +36703,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &859496679
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -35992,6 +36893,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &860020985
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -36097,6 +37001,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &861632518
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -36324,6 +37231,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &863732251
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -36611,6 +37521,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &871217674
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -36716,6 +37629,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &872671962
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -36947,6 +37863,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &877677706
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -37134,6 +38053,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &884535215
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -37239,6 +38161,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &885664098
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -37436,6 +38361,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &887392877
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -37541,6 +38469,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &892298650
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -37692,6 +38623,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &892689759
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -37889,6 +38823,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &894369938
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -37994,6 +38931,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &897686637
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -38145,6 +39085,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &901053456
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -38296,6 +39239,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &901666649
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -38438,6 +39384,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &901786545
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -38580,6 +39529,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &902397869
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -38722,6 +39674,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &903626747
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -38873,6 +39828,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &905558151
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -39160,6 +40118,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &912419793
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -39265,6 +40226,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &914808171
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -39453,6 +40417,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &915853722
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -39558,6 +40525,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &916619759
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -39709,6 +40679,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &924865996
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -39851,6 +40824,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &931621790
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -39993,6 +40969,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &931937940
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -40134,6 +41113,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &933637708
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -40276,6 +41258,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &933702663
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -40508,6 +41493,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &937753429
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -40695,6 +41683,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &937841674
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -40846,6 +41837,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &941024606
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -40951,6 +41945,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &941251422
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -41093,6 +42090,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &941995134
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -41235,6 +42235,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &942698804
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -41386,6 +42389,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &943806233
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -41574,6 +42580,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &946878248
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -41679,6 +42688,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &949762542
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -41867,6 +42879,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &953990604
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -42152,6 +43167,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &959655931
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -42430,6 +43448,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &967318586
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -42581,6 +43602,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &969599223
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -42822,6 +43846,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &970617048
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -42927,6 +43954,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &971460437
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -43068,6 +44098,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &973238678
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -43209,6 +44242,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &981107906
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -43445,6 +44481,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!1 &988018520
 GameObject:
   m_ObjectHideFlags: 0
@@ -43492,6 +44531,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &988018523
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -43634,6 +44676,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &990966944
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -43875,6 +44920,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &994935713
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -44017,6 +45065,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1017063221
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -44159,6 +45210,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1018084879
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -44301,6 +45355,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1019238035
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -44452,6 +45509,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1020243829
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -44594,6 +45654,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &1021527400
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -44781,6 +45844,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1028416329
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -44932,6 +45998,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1031474158
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -45037,6 +46106,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1032501551
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -45188,6 +46260,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1034278444
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -45330,6 +46405,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1042531701
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -45472,6 +46550,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1044957361
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -45750,6 +46831,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1057952437
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -45901,6 +46985,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1060619161
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -46006,6 +47093,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1060668046
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -46203,6 +47293,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1074133594
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -46444,6 +47537,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1077381122
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -46549,6 +47645,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1078088320
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -46827,6 +47926,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1085971192
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -47022,6 +48124,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1090521333
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -47173,6 +48278,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1097417150
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -47409,6 +48517,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!1 &1101947328
 GameObject:
   m_ObjectHideFlags: 0
@@ -47456,6 +48567,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1101947331
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -47598,6 +48712,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Delivery
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1104042194
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -47749,6 +48866,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1108251530
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -47891,6 +49011,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1108953759
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -48127,6 +49250,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!1 &1119149768
 GameObject:
   m_ObjectHideFlags: 0
@@ -48220,6 +49346,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1119149772
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -48419,6 +49548,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!1 &1123201791
 GameObject:
   m_ObjectHideFlags: 0
@@ -48556,6 +49688,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1125480215
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -48698,6 +49833,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1131978641
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -48934,6 +50072,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!1 &1138374251
 GameObject:
   m_ObjectHideFlags: 0
@@ -48981,6 +50122,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1138374254
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -49213,6 +50357,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &1142337261
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -49400,6 +50547,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1143344229
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -49505,6 +50655,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1146557188
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -49647,6 +50800,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1146617686
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -49925,6 +51081,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1151295296
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -50120,6 +51279,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1156450286
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -50577,6 +51739,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &1159800204
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -50718,6 +51883,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1163448299
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -50906,6 +52074,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1164168626
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -51011,6 +52182,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1166200700
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -51208,6 +52382,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1168775404
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -51313,6 +52490,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1173258444
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -51464,6 +52644,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1174679049
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -51615,6 +52798,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &1178763929
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -51802,6 +52988,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1179555740
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -51907,6 +53096,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1181267803
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -52104,6 +53296,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1187830538
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -52209,6 +53404,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1188559632
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -52399,6 +53597,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 458942793}
+  - {fileID: 277877658}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -52453,6 +53652,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1194983666
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -52641,6 +53843,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1196684589
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -52836,6 +54041,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1199078618
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -53115,6 +54323,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &1208472118
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -53256,6 +54467,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1216988176
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -53534,6 +54748,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1221978867
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -53639,6 +54856,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1225211145
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -53781,6 +55001,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1228200315
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -53923,6 +55146,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1231260917
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -54065,6 +55291,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &1232577791
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -54252,6 +55481,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1235519642
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -54357,6 +55589,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1242212152
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -54499,6 +55734,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1242742900
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -54650,6 +55888,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1246142345
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -54801,6 +56042,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1247735211
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -54989,6 +56233,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1248742409
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -55140,6 +56387,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1249339719
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -55335,6 +56585,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1252513210
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -55523,6 +56776,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1255505137
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -55674,6 +56930,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1264635293
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -55779,6 +57038,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1267924028
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -55976,6 +57238,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1269907502
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -56171,6 +57436,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &1277188538
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -56312,6 +57580,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &1280130721
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -56589,6 +57860,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1287513879
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -56647,6 +57921,135 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1289750080
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1289750082}
+  - component: {fileID: 1289750081}
+  m_Layer: 0
+  m_Name: PackagePickUp
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!82 &1289750081
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1289750080}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 8300000, guid: df3a03171ccdd5841b2bb382480339f6, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 0.75
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!4 &1289750082
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1289750080}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 6.81257, y: 4.09011, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1291550436
 GameObject:
   m_ObjectHideFlags: 0
@@ -56694,6 +58097,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1291550439
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -56836,6 +58242,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1298651204
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -56987,6 +58396,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1299220253
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -57265,6 +58677,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1307256462
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -57416,6 +58831,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1308275447
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -57521,6 +58939,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1308530659
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -57663,6 +59084,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1309518705
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -57805,6 +59229,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1315575211
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -57947,6 +59374,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1315675210
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -58098,6 +59528,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1320733548
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -58339,6 +59772,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &1324575412
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -58480,6 +59916,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1326953052
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -58668,6 +60107,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1329676380
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -58819,6 +60261,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1329686202
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -59060,6 +60505,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1341899833
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -59211,6 +60659,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1344137036
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -59316,6 +60767,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1355167270
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -59594,6 +61048,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1367226243
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -59745,6 +61202,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1367894680
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -59850,6 +61310,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1370612165
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -60001,6 +61464,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1372536899
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -60143,6 +61609,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1374148593
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -60340,6 +61809,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1375292794
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -60445,6 +61917,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1375431069
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -60633,6 +62108,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1376034695
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -60828,6 +62306,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1380813317
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -60970,6 +62451,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1388137525
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -61167,6 +62651,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1392988831
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -61272,6 +62759,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1397080741
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -61414,6 +62904,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1397523265
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -61565,6 +63058,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1400548826
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -61707,6 +63203,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1403709589
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -61895,6 +63394,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1404018522
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -62046,6 +63548,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1408323036
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -62151,6 +63656,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1409674169
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -62383,6 +63891,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1415120892
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -62662,6 +64173,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1419795302
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -62890,6 +64404,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1428347633
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -63078,6 +64595,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1429819436
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -63229,6 +64749,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1430912372
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -63334,6 +64857,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1430996098
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -63476,6 +65002,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1435235135
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -63664,6 +65193,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1440123072
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -63769,6 +65301,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1440744909
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -63911,6 +65446,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &1441230955
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -64098,6 +65636,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1443188609
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -64293,6 +65834,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1452198034
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -64619,6 +66163,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!1 &1464746303
 GameObject:
   m_ObjectHideFlags: 0
@@ -64802,6 +66349,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1464917053
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -64907,6 +66457,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &1466968698
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -65048,6 +66601,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &1467379787
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -65325,6 +66881,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1471046327
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -65559,6 +67118,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1476624299
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -65747,6 +67309,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1477578041
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -65898,6 +67463,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1479127964
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -66049,6 +67617,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1483344325
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -66154,6 +67725,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1485730532
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -66342,6 +67916,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1492461327
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -66447,6 +68024,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1499594032
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -66589,6 +68169,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1504595892
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -66731,6 +68314,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &1505256184
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -66872,6 +68458,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1505648851
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -67060,6 +68649,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1506863083
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -67165,6 +68757,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1509273457
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -67316,6 +68911,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1513974972
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -67467,6 +69065,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1519124037
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -67609,6 +69210,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1521541239
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -67850,6 +69454,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1526319258
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -68001,6 +69608,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1526807032
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -68152,6 +69762,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &1532493500
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -68293,6 +69906,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1536452381
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -68435,6 +70051,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1544639510
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -68577,6 +70196,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1548693088
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -68719,6 +70341,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1556874510
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -68907,6 +70532,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1560252308
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -69102,6 +70730,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &1569515272
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -69243,6 +70874,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1572763005
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -69431,6 +71065,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1577441556
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -69626,6 +71263,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1584604512
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -69948,6 +71588,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1586180844
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -70099,6 +71742,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &1586675260
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -70330,6 +71976,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1596107510
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -70562,6 +72211,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1602072929
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -70849,6 +72501,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1605024984
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -70947,6 +72602,8 @@ MonoBehaviour:
   boostSpeed: 15
   regularSpeed: 8
   boosttext: {fileID: 458942794}
+  wallHit: {fileID: 1939008077}
+  boostUp: {fileID: 2015266442}
 --- !u!212 &1607701314
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -71106,6 +72763,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 1289750081}
+  turnIn: {fileID: 124953787}
+  packageText: {fileID: 277877659}
 --- !u!199 &1607701320
 ParticleSystemRenderer:
   serializedVersion: 6
@@ -75956,6 +77616,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1607706907
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -76098,6 +77761,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &1614058898
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -76329,6 +77995,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1617890707
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -76480,6 +78149,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1619087241
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -76758,6 +78430,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1620909203
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -76909,6 +78584,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1622591008
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -77014,6 +78692,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1625574828
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -77165,6 +78846,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &1630967629
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -77306,6 +78990,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1633849001
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -77448,6 +79135,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &1634527258
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -77589,6 +79279,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &1647072775
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -77776,6 +79469,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1650519521
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -78061,6 +79757,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1653409331
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -78258,6 +79957,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1655673584
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -78409,6 +80111,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1655814288
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -78514,6 +80219,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1658551833
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -78702,6 +80410,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1661857965
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -78853,6 +80564,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1667543500
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -78958,6 +80672,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1673358112
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -79100,6 +80817,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1678765794
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -79242,6 +80962,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1679318982
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -79384,6 +81107,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1680261929
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -79581,6 +81307,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1682116185
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -79686,6 +81415,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1689478730
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -79883,6 +81615,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1692406430
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -79988,6 +81723,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1695972356
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -80139,6 +81877,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1699247961
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -80336,6 +82077,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1704091530
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -80441,6 +82185,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1705267514
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -80583,6 +82330,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1705420688
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -80960,6 +82710,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1712173663
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -81111,6 +82864,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1718712025
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -81262,6 +83018,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1720512089
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -81413,6 +83172,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1723465693
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -81564,6 +83326,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1724833454
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -81805,6 +83570,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1730701979
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -81910,6 +83678,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1734990069
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -82052,6 +83823,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1735154773
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -82203,6 +83977,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &1739793904
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -82344,6 +84121,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1739798024
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -82585,6 +84365,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &1743010204
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -82772,6 +84555,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1745970480
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -82877,6 +84663,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1747138895
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -83019,6 +84808,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1747367287
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -83297,6 +85089,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1755241038
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -83402,6 +85197,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1759752662
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -83553,6 +85351,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1760360242
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -83794,6 +85595,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &1764845087
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -83935,6 +85739,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1773502575
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -84167,6 +85974,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &1779154674
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -84354,6 +86164,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1781335709
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -84549,6 +86362,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1795778655
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -84871,6 +86687,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1803574269
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -85013,6 +86832,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1805292786
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -85344,6 +87166,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1807064233
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -85532,6 +87357,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1809133187
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -85727,6 +87555,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &1811963892
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -85958,6 +87789,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1816637633
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -86109,6 +87943,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1818701572
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -86526,6 +88363,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1826933130
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -86723,6 +88563,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1827140581
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -86828,6 +88671,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1828414984
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -87106,6 +88952,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1838882235
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -87211,6 +89060,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1841074706
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -87353,6 +89205,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1846098086
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -87495,6 +89350,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1848388779
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -87637,6 +89495,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1850889767
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -87779,6 +89640,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &1851311887
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -87920,6 +89784,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1851726866
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -88062,6 +89929,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1854989381
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -88303,6 +90173,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1856420407
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -88445,6 +90318,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1858160900
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -88587,6 +90463,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1860131576
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -88738,6 +90617,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &1864130282
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -88832,6 +90714,135 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &1867265469
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1867265471}
+  - component: {fileID: 1867265470}
+  m_Layer: 0
+  m_Name: BackgroundMusic
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!82 &1867265470
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1867265469}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 8300000, guid: 8b591158cdacc304f92178cc527d8598, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 0.5
+  m_Pitch: 1
+  Loop: 1
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!4 &1867265471
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1867265469}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -12.17938, y: -38.08214, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1870032344
 GameObject:
   m_ObjectHideFlags: 0
@@ -88879,6 +90890,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1870032347
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -89067,6 +91081,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1870097961
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -89308,6 +91325,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1873680409
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -89459,6 +91479,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1875117426
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -89564,6 +91587,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &1877339431
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -89975,6 +92001,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1900605364
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -90163,6 +92192,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1901578405
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -90268,6 +92300,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1902665095
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -90500,6 +92535,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1905454451
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -90688,6 +92726,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1906376489
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -90793,6 +92834,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1910102503
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -91034,6 +93078,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1914868015
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -91275,6 +93322,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1917222804
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -91417,6 +93467,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1917623229
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -91605,6 +93658,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1917828840
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -91756,6 +93812,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1921715871
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -91861,6 +93920,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &1922632697
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -92002,6 +94064,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1927576574
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -92144,6 +94209,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1928639109
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -92341,6 +94409,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1929013220
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -92536,6 +94607,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &1933042207
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -92901,6 +94975,135 @@ Transform:
   - {fileID: 1858160898}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1939008076
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1939008078}
+  - component: {fileID: 1939008077}
+  m_Layer: 0
+  m_Name: WallHit
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!82 &1939008077
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1939008076}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 8300000, guid: 31e38f90b27e08941ab0f515ef1991a1, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 0.75
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!4 &1939008078
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1939008076}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 6.81257, y: 4.09011, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1939810145
 GameObject:
   m_ObjectHideFlags: 0
@@ -92948,6 +95151,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &1939810148
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -93135,6 +95341,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1942753683
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -93283,6 +95492,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1946793857
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -93471,6 +95683,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1946968140
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -93576,6 +95791,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &1948892251
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -93773,6 +95991,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1950545543
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -93878,6 +96099,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1950612517
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -94066,6 +96290,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1952017776
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -94171,6 +96398,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &1959769514
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -94312,6 +96542,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1971890516
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -94454,6 +96687,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &1973256427
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -94685,6 +96921,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1976572475
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -94827,6 +97066,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1980143978
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -95015,6 +97257,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1981490440
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -95166,6 +97411,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1982552177
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -95271,6 +97519,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1985834471
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -95459,6 +97710,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &1990597039
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -95564,6 +97818,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &1991332039
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -95795,6 +98052,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1995390653
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -95937,6 +98197,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &1999275761
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -96169,6 +98432,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &2000992055
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -96311,6 +98577,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &2003879558
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -96542,6 +98811,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &2006038847
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -96684,6 +98956,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &2006600270
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -96881,6 +99156,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &2009158543
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -97122,6 +99400,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &2013245872
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -97227,6 +99508,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &2014391020
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -97368,6 +99652,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &2014553590
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -97472,6 +99759,135 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!1 &2015266441
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2015266443}
+  - component: {fileID: 2015266442}
+  m_Layer: 0
+  m_Name: BoostUp
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!82 &2015266442
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2015266441}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 8300000, guid: f6e0cf0436d02c3499e19105a03d74ff, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 0.75
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!4 &2015266443
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2015266441}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 6.81257, y: 4.09011, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2017237791
 GameObject:
   m_ObjectHideFlags: 0
@@ -97519,6 +99935,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &2017237794
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -97661,6 +100080,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &2018828325
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -97858,6 +100280,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &2020462930
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -98009,6 +100434,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &2024950696
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -98160,6 +100588,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &2025082462
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -98265,6 +100696,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &2025795569
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -98453,6 +100887,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &2028680712
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -98604,6 +101041,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &2029077233
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -98709,6 +101149,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &2030499784
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -98860,6 +101303,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &2047207331
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -99057,6 +101503,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &2048866124
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -99208,6 +101657,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &2049062658
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -99313,6 +101765,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &2051754364
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -99455,6 +101910,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &2051770065
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -99558,6 +102016,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1472503665}
     m_Modifications:
+    - target: {fileID: 202129946241722030, guid: de61ce206cb62194b9d577a55f4eda79, type: 3}
+      propertyPath: pickUp
+      value: 
+      objectReference: {fileID: 1289750081}
+    - target: {fileID: 202129946241722030, guid: de61ce206cb62194b9d577a55f4eda79, type: 3}
+      propertyPath: turnIn
+      value: 
+      objectReference: {fileID: 124953787}
     - target: {fileID: 4019481493763009187, guid: de61ce206cb62194b9d577a55f4eda79, type: 3}
       propertyPath: m_Name
       value: Package
@@ -99654,6 +102120,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &2057214546
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -99796,6 +102265,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &2058602465
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -99938,6 +102410,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &2071390496
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -100080,6 +102555,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &2078735639
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -100312,6 +102790,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &2083059682
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -100463,6 +102944,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &2094903528
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -100605,6 +103089,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &2096257957
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -100756,6 +103243,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &2097332715
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -100907,6 +103397,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &2099401118
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -101049,6 +103542,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &2099577853
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -101246,6 +103742,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &2100948498
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -101351,6 +103850,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &2105598098
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -101493,6 +103995,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!61 &2108393031
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -101690,6 +104195,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &2109479881
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -101841,6 +104349,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &2111469839
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -101946,6 +104457,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &2112011281
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -102314,6 +104828,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &2122179753
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -102419,6 +104936,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &2122649896
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -102561,6 +105081,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &2124984226
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -102793,6 +105316,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &2129316648
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -102934,6 +105460,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &2130067085
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -103121,6 +105650,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &2130803335
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -103226,6 +105758,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &2133523663
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -103368,6 +105903,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &2134402068
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -103556,6 +106094,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!212 &2134570098
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -103751,6 +106292,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &2136048344
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -103893,6 +106437,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!70 &2136581892
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -104035,6 +106582,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Collision
   destroySpeed: 0.1
+  pickUp: {fileID: 0}
+  turnIn: {fileID: 0}
+  packageText: {fileID: 0}
 --- !u!58 &2144056804
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -104194,6 +106744,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1472503665}
     m_Modifications:
+    - target: {fileID: 202129946241722030, guid: de61ce206cb62194b9d577a55f4eda79, type: 3}
+      propertyPath: pickUp
+      value: 
+      objectReference: {fileID: 1289750081}
+    - target: {fileID: 202129946241722030, guid: de61ce206cb62194b9d577a55f4eda79, type: 3}
+      propertyPath: turnIn
+      value: 
+      objectReference: {fileID: 124953787}
     - target: {fileID: 4019481493763009187, guid: de61ce206cb62194b9d577a55f4eda79, type: 3}
       propertyPath: m_Name
       value: Package
@@ -104319,3 +106877,8 @@ SceneRoots:
   - {fileID: 1472503665}
   - {fileID: 1192209706}
   - {fileID: 624832436}
+  - {fileID: 1867265471}
+  - {fileID: 1289750082}
+  - {fileID: 124953788}
+  - {fileID: 2015266443}
+  - {fileID: 1939008078}
